@@ -1,0 +1,17 @@
+{
+  "name": "NexThrone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:to6esko/NexThrone.git",
+    "type": "git"
+  },
+  "author": "Todor Krastev <to6esko69@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next"
+  },
+  "dependencies": {
+    "next": "^1.2.3"
+  }
+}
